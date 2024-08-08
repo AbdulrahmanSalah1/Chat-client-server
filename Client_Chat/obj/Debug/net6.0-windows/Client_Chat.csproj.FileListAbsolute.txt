@@ -1,0 +1,74 @@
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.exe
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.deps.json
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.runtimeconfig.json
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.Form1.resources
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.GenerateResource.cache
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfoInputs.cache
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfo.cs
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.CoreCompileInputs.cache
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\refint\Client_Chat.dll
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.genruntimeconfig.cache
+E:\FCI\FCI\Level 4\Second Term\NP\Section\Client_Chat\obj\Debug\net6.0-windows\ref\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.exe
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.deps.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.runtimeconfig.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.Form1.resources
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.GenerateResource.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfoInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfo.cs
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.CoreCompileInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\refint\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.genruntimeconfig.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Client_Chat\obj\Debug\net6.0-windows\ref\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.exe
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.deps.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.runtimeconfig.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.Form1.resources
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.GenerateResource.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfoInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfo.cs
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.CoreCompileInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\refint\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.genruntimeconfig.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\ref\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.ResolveComReference.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.exe
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.deps.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.runtimeconfig.json
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.ResolveComReference.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.Form1.resources
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.GenerateResource.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfoInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.AssemblyInfo.cs
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.csproj.CoreCompileInputs.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\refint\Client_Chat.dll
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.pdb
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\Client_Chat.genruntimeconfig.cache
+E:\FCI\FCI\Level4\SecondTerm\NP\Section\Project\Client_Chat\obj\Debug\net6.0-windows\ref\Client_Chat.dll
